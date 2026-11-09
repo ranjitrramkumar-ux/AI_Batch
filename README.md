@@ -1,12 +1,14 @@
 # AI Batch: LLM Fundamentals
 
-This repository contains a self-paced, browser-based introduction to large language model (LLM) fundamentals. The course is designed for beginners and software testers, with plain-language explanations, diagrams, practice activities, quick checks, and a glossary.
+This repository contains a self-paced, browser-based introduction to large language model (LLM) fundamentals. Designed for beginners and software testers, the course combines plain-language explanations with diagrams and activities that help connect core concepts to practical testing.
 
-## Course
+## Open the course
 
 Open [LLM_Fundamentals.html](./01_LLM_Fundamentals_Folder/LLM_Fundamentals.html) in a modern web browser. No installation, build step, or server is required.
 
-The course includes 13 lessons:
+## What you'll learn
+
+The 13 lessons build from foundational ideas to practical evaluation:
 
 1. AI, machine learning, and LLMs
 2. How an LLM works
@@ -22,13 +24,15 @@ The course includes 13 lessons:
 12. Why LLMs get things wrong
 13. Testing LLM output
 
-It also includes hands-on labs, lesson quick checks, a plain-language glossary, and a course reference sheet. Lesson completion and theme preferences are saved in the browser's local storage.
+Along the way, you can work through nine hands-on labs, answer lesson quick checks, and refer to a plain-language glossary and course reference sheet.
 
-## Using the course
+## How to use it
 
 1. Clone or download this repository.
 2. Open `01_LLM_Fundamentals_Folder/LLM_Fundamentals.html` in your browser.
-3. Use the course navigation to follow the lessons, try the practice activities, and track your progress.
+3. Follow the course navigation at your own pace. Try the practice activities and quick checks as you go.
+
+The course keeps lesson-completion progress and the selected theme in your browser's local storage. This information is specific to that browser; clearing its stored site data will reset it.
 
 ## Repository structure
 
